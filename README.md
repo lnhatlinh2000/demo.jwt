@@ -1,2 +1,2 @@
 # demo.jwt
-login with jwt spring boot
+login with jwt servlet
