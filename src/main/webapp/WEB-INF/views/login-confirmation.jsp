@@ -5,7 +5,7 @@
 </head>
 <body>
 <h3>This is your information:</h3>
-<p><b>Username: </b>${username}</p>
-<p><b>Password: </b>${password}</p>
+<p><b>Username: </b>${user.username}</p>
+<p><b>Password: </b>${user.password}</p>
 </body>
 </html>
